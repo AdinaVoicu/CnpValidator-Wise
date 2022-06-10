@@ -1,0 +1,5 @@
+[10-Jun-2022 10:16:38 UTC] PHP Fatal error:  Uncaught TypeError: Library\CNP::__construct(): Argument #1 ($cnp) must be of type string, int given, called in /var/www/html/MIT-PROJECTS/cnp-av/src/CNP.php on line 111 and defined in /var/www/html/MIT-PROJECTS/cnp-av/src/CNP.php:51
+Stack trace:
+#0 /var/www/html/MIT-PROJECTS/cnp-av/src/CNP.php(111): Library\CNP->__construct()
+#1 {main}
+  thrown in /var/www/html/MIT-PROJECTS/cnp-av/src/CNP.php on line 51

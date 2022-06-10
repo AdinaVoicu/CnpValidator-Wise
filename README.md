@@ -28,10 +28,8 @@ if ($cnp->getIsValid()) {
     echo "CNP {$cnpValue} is invalid" . PHP_EOL;
 }
 
-
-## How to run tests?
 ```
-## Open an terminal and run commands:
+## To test open a terminal and run command:
 
 ./vendor/bin/phpunit --bootstrap ./vendor/autoload.php
 ```
